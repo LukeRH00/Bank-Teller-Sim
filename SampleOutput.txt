@@ -1,0 +1,1754 @@
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Customer 0 wants to perform a withdrawal transaction.
+Customer 1 wants to perform a withdrawal transaction.
+Customer 2 wants to perform a withdrawal transaction.
+Customer 3 wants to perform a deposit transaction.
+Customer 4 wants to perform a withdrawal transaction.
+Customer 5 wants to perform a deposit transaction.
+Customer 6 wants to perform a withdrawal transaction.
+Customer 7 wants to perform a deposit transaction.
+Customer 8 wants to perform a withdrawal transaction.
+Customer 9 wants to perform a withdrawal transaction.
+Customer 10 wants to perform a deposit transaction.
+Customer 11 wants to perform a withdrawal transaction.
+Customer 12 wants to perform a deposit transaction.
+Customer 13 wants to perform a withdrawal transaction.
+Customer 14 wants to perform a withdrawal transaction.
+Customer 15 wants to perform a withdrawal transaction.
+Customer 16 wants to perform a deposit transaction.
+Customer 17 wants to perform a withdrawal transaction.
+Customer 18 wants to perform a withdrawal transaction.
+Customer 19 wants to perform a withdrawal transaction.
+Customer 20 wants to perform a deposit transaction.
+Customer 21 wants to perform a deposit transaction.
+Customer 22 wants to perform a deposit transaction.
+Customer 23 wants to perform a withdrawal transaction.
+Customer 24 wants to perform a withdrawal transaction.
+Customer 25 wants to perform a withdrawal transaction.
+Customer 26 wants to perform a withdrawal transaction.
+Customer 27 wants to perform a deposit transaction.
+Customer 28 wants to perform a deposit transaction.
+Customer 29 wants to perform a withdrawal transaction.
+Customer 30 wants to perform a deposit transaction.
+Customer 31 wants to perform a withdrawal transaction.
+Customer 32 wants to perform a withdrawal transaction.
+Customer 33 wants to perform a deposit transaction.
+Customer 34 wants to perform a withdrawal transaction.
+Customer 35 wants to perform a deposit transaction.
+Customer 36 wants to perform a deposit transaction.
+Customer 37 wants to perform a deposit transaction.
+Customer 38 wants to perform a withdrawal transaction.
+Customer 39 wants to perform a deposit transaction.
+Customer 40 wants to perform a deposit transaction.
+Customer 41 wants to perform a deposit transaction.
+Customer 42 wants to perform a deposit transaction.
+Customer 43 wants to perform a deposit transaction.
+Customer 44 wants to perform a deposit transaction.
+Customer 45 wants to perform a withdrawal transaction.
+Customer 46 wants to perform a deposit transaction.
+Customer 47 wants to perform a withdrawal transaction.
+Customer 48 wants to perform a deposit transaction.
+Customer 49 wants to perform a withdrawal transaction.
+Customer 50 wants to perform a deposit transaction.
+Customer 51 wants to perform a withdrawal transaction.
+Customer 52 wants to perform a deposit transaction.
+Customer 53 wants to perform a withdrawal transaction.
+Customer 54 wants to perform a withdrawal transaction.
+Customer 55 wants to perform a deposit transaction.
+Customer 56 wants to perform a deposit transaction.
+Customer 57 wants to perform a deposit transaction.
+Customer 58 wants to perform a deposit transaction.
+Customer 59 wants to perform a deposit transaction.
+Customer 60 wants to perform a deposit transaction.
+Customer 61 wants to perform a deposit transaction.
+Customer 62 wants to perform a withdrawal transaction.
+Customer 63 wants to perform a withdrawal transaction.
+Customer 64 wants to perform a deposit transaction.
+Customer 65 wants to perform a withdrawal transaction.
+Customer 66 wants to perform a deposit transaction.
+Customer 67 wants to perform a deposit transaction.
+Customer 68 wants to perform a deposit transaction.
+Customer 69 wants to perform a withdrawal transaction.
+Customer 70 wants to perform a deposit transaction.
+Customer 71 wants to perform a deposit transaction.
+Customer 72 wants to perform a deposit transaction.
+Customer 73 wants to perform a deposit transaction.
+Customer 74 wants to perform a withdrawal transaction.
+Customer 75 wants to perform a withdrawal transaction.
+Customer 76 wants to perform a deposit transaction.
+Customer 77 wants to perform a withdrawal transaction.
+Customer 78 wants to perform a deposit transaction.
+Customer 79 wants to perform a withdrawal transaction.
+Customer 80 wants to perform a deposit transaction.
+Customer 81 wants to perform a withdrawal transaction.
+Customer 82 wants to perform a deposit transaction.
+Customer 83 wants to perform a withdrawal transaction.
+Customer 84 wants to perform a withdrawal transaction.
+Customer 85 wants to perform a deposit transaction.
+Customer 86 wants to perform a deposit transaction.
+Customer 87 wants to perform a withdrawal transaction.
+Customer 88 wants to perform a withdrawal transaction.
+Customer 89 wants to perform a deposit transaction.
+Customer 90 wants to perform a deposit transaction.
+Customer 91 wants to perform a deposit transaction.
+Customer 92 wants to perform a withdrawal transaction.
+Customer 93 wants to perform a withdrawal transaction.
+Customer 94 wants to perform a withdrawal transaction.
+Customer 95 wants to perform a deposit transaction.
+Customer 96 wants to perform a deposit transaction.
+Customer 97 wants to perform a withdrawal transaction.
+Customer 98 wants to perform a withdrawal transaction.
+Customer 99 wants to perform a withdrawal transaction.
+Customer 3 is going to the bank.
+Customer 3 is getting in line.
+Customer 3 is selecting a teller.
+Customer 3 goes to Teller 0.
+Customer 3 introduces itself to Teller 0.
+Teller 0 is serving Customer 3.
+Customer 3 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 3's deposit transaction.
+Customer 3 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 4 is going to the bank.
+Customer 4 is getting in line.
+Customer 4 is selecting a teller.
+Customer 4 goes to Teller 0.
+Customer 4 introduces itself to Teller 0.
+Teller 0 is serving Customer 4.
+Customer 4 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Customer 91 is going to the bank.
+Customer 91 is getting in line.
+Customer 91 is selecting a teller.
+Customer 91 goes to Teller 1.
+Customer 91 introduces itself to Teller 1.
+Teller 1 is serving Customer 91.
+Customer 91 asks for a deposit transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Customer 79 is going to the bank.
+Customer 79 is getting in line.
+Customer 79 is selecting a teller.
+Customer 79 goes to Teller 2.
+Customer 79 introduces itself to Teller 2.
+Teller 2 is serving Customer 79.
+Customer 79 asks for a withdrawal transaction.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the manager.
+Teller 2 is getting the manager's permission.
+Teller 2 is got the manager's permission.
+Teller 2 is going to the safe.
+Customer 45 is going to the bank.
+Customer 45 is getting in line.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 91's deposit transaction.
+Customer 91 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Teller 2 is in the safe.
+Customer 45 is selecting a teller.
+Customer 45 goes to Teller 1.
+Customer 45 introduces itself to Teller 1.
+Teller 1 is serving Customer 45.
+Customer 45 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 1 is getting the manager's permission.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 4's withdrawal transaction.
+Customer 4 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 79's withdrawal transaction.
+Customer 79 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 45's withdrawal transaction.
+Customer 45 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 95 is going to the bank.
+Customer 95 is getting in line.
+Customer 95 is selecting a teller.
+Customer 95 goes to Teller 0.
+Customer 95 introduces itself to Teller 0.
+Teller 0 is serving Customer 95.
+Customer 95 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 95's deposit transaction.
+Customer 95 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 12 is going to the bank.
+Customer 12 is getting in line.
+Customer 12 is selecting a teller.
+Customer 12 goes to Teller 0.
+Customer 12 introduces itself to Teller 0.
+Teller 0 is serving Customer 12.
+Customer 12 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Customer 32 is going to the bank.
+Customer 32 is getting in line.
+Customer 32 is selecting a teller.
+Customer 32 goes to Teller 1.
+Customer 32 introduces itself to Teller 1.
+Teller 1 is serving Customer 32.
+Customer 32 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 1 is getting the manager's permission.
+Customer 20 is going to the bank.
+Customer 20 is getting in line.
+Customer 20 is selecting a teller.
+Customer 20 goes to Teller 2.
+Customer 20 introduces itself to Teller 2.
+Teller 2 is serving Customer 20.
+Customer 20 asks for a deposit transaction.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the safe.
+Teller 2 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 12's deposit transaction.
+Customer 12 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 20's deposit transaction.
+Customer 20 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Customer 6 is going to the bank.
+Customer 6 is getting in line.
+Customer 6 is selecting a teller.
+Customer 6 goes to Teller 0.
+Customer 6 introduces itself to Teller 0.
+Teller 0 is serving Customer 6.
+Customer 6 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 32's withdrawal transaction.
+Customer 32 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 6's withdrawal transaction.
+Customer 6 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 70 is going to the bank.
+Customer 70 is getting in line.
+Customer 70 is selecting a teller.
+Customer 70 goes to Teller 0.
+Customer 70 introduces itself to Teller 0.
+Teller 0 is serving Customer 70.
+Customer 70 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 70's deposit transaction.
+Customer 70 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 40 is going to the bank.
+Customer 40 is getting in line.
+Customer 40 is selecting a teller.
+Customer 40 goes to Teller 0.
+Customer 40 introduces itself to Teller 0.
+Teller 0 is serving Customer 40.
+Customer 40 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 40's deposit transaction.
+Customer 40 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 29 is going to the bank.
+Customer 29 is getting in line.
+Customer 29 is selecting a teller.
+Customer 29 goes to Teller 0.
+Customer 29 introduces itself to Teller 0.
+Teller 0 is serving Customer 29.
+Customer 29 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 29's withdrawal transaction.
+Customer 29 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 67 is going to the bank.
+Customer 67 is getting in line.
+Customer 67 is selecting a teller.
+Customer 67 goes to Teller 0.
+Customer 67 introduces itself to Teller 0.
+Teller 0 is serving Customer 67.
+Customer 67 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Customer 66 is going to the bank.
+Customer 66 is getting in line.
+Customer 66 is selecting a teller.
+Customer 66 goes to Teller 1.
+Customer 66 introduces itself to Teller 1.
+Teller 1 is serving Customer 66.
+Customer 66 asks for a deposit transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 67's deposit transaction.
+Customer 67 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 60 is going to the bank.
+Customer 60 is getting in line.
+Customer 60 is selecting a teller.
+Customer 60 goes to Teller 0.
+Customer 60 introduces itself to Teller 0.
+Teller 0 is serving Customer 60.
+Customer 60 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 66's deposit transaction.
+Customer 66 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 24 is going to the bank.
+Customer 24 is getting in line.
+Customer 24 is selecting a teller.
+Customer 24 goes to Teller 1.
+Customer 24 introduces itself to Teller 1.
+Teller 1 is serving Customer 24.
+Customer 24 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 1 is getting the manager's permission.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 60's deposit transaction.
+Customer 60 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 69 is going to the bank.
+Customer 69 is getting in line.
+Customer 69 is selecting a teller.
+Customer 69 goes to Teller 0.
+Customer 69 introduces itself to Teller 0.
+Teller 0 is serving Customer 69.
+Customer 69 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 69's withdrawal transaction.
+Customer 69 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 24's withdrawal transaction.
+Customer 24 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 59 is going to the bank.
+Customer 59 is getting in line.
+Customer 59 is selecting a teller.
+Customer 59 goes to Teller 0.
+Customer 59 introduces itself to Teller 0.
+Teller 0 is serving Customer 59.
+Customer 59 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 59's deposit transaction.
+Customer 59 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 84 is going to the bank.
+Customer 84 is getting in line.
+Customer 84 is selecting a teller.
+Customer 84 goes to Teller 0.
+Customer 84 introduces itself to Teller 0.
+Teller 0 is serving Customer 84.
+Customer 84 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Customer 9 is going to the bank.
+Customer 9 is getting in line.
+Customer 9 is selecting a teller.
+Customer 9 goes to Teller 1.
+Customer 9 introduces itself to Teller 1.
+Teller 1 is serving Customer 9.
+Customer 9 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 1 is getting the manager's permission.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 84's withdrawal transaction.
+Customer 84 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 44 is going to the bank.
+Customer 44 is getting in line.
+Customer 44 is selecting a teller.
+Customer 44 goes to Teller 0.
+Customer 44 introduces itself to Teller 0.
+Teller 0 is serving Customer 44.
+Customer 44 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 9's withdrawal transaction.
+Customer 9 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 80 is going to the bank.
+Customer 80 is getting in line.
+Customer 80 is selecting a teller.
+Customer 80 goes to Teller 1.
+Customer 80 introduces itself to Teller 1.
+Teller 1 is serving Customer 80.
+Customer 80 asks for a deposit transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 44's deposit transaction.
+Customer 44 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 80's deposit transaction.
+Customer 80 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 26 is going to the bank.
+Customer 26 is getting in line.
+Customer 26 is selecting a teller.
+Customer 26 goes to Teller 0.
+Customer 26 introduces itself to Teller 0.
+Teller 0 is serving Customer 26.
+Customer 26 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 26's withdrawal transaction.
+Customer 26 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 65 is going to the bank.
+Customer 65 is getting in line.
+Customer 65 is selecting a teller.
+Customer 65 goes to Teller 0.
+Customer 65 introduces itself to Teller 0.
+Teller 0 is serving Customer 65.
+Customer 65 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Customer 93 is going to the bank.
+Customer 93 is getting in line.
+Customer 93 is selecting a teller.
+Customer 93 goes to Teller 1.
+Customer 93 introduces itself to Teller 1.
+Teller 1 is serving Customer 93.
+Customer 93 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Customer 89 is going to the bank.
+Customer 89 is getting in line.
+Customer 89 is selecting a teller.
+Customer 89 goes to Teller 2.
+Customer 89 introduces itself to Teller 2.
+Teller 2 is serving Customer 89.
+Customer 89 asks for a deposit transaction.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the safe.
+Teller 2 is in the safe.
+Customer 71 is going to the bank.
+Customer 71 is getting in line.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 1 is getting the manager's permission.
+Customer 0 is going to the bank.
+Customer 0 is getting in line.
+Customer 53 is going to the bank.
+Customer 53 is getting in line.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 65's withdrawal transaction.
+Customer 65 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 71 is selecting a teller.
+Customer 71 goes to Teller 0.
+Customer 71 introduces itself to Teller 0.
+Teller 0 is serving Customer 71.
+Customer 71 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 89's deposit transaction.
+Customer 89 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Customer 0 is selecting a teller.
+Customer 0 goes to Teller 2.
+Customer 0 introduces itself to Teller 2.
+Teller 2 is serving Customer 0.
+Customer 0 asks for a withdrawal transaction.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the manager.
+Customer 17 is going to the bank.
+Customer 17 is getting in line.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 2 is getting the manager's permission.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 71's deposit transaction.
+Customer 71 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 53 is selecting a teller.
+Customer 53 goes to Teller 0.
+Customer 53 introduces itself to Teller 0.
+Teller 0 is serving Customer 53.
+Customer 53 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 93's withdrawal transaction.
+Customer 93 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 17 is selecting a teller.
+Customer 17 goes to Teller 1.
+Customer 17 introduces itself to Teller 1.
+Teller 1 is serving Customer 17.
+Customer 17 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 2 is got the manager's permission.
+Teller 2 is going to the safe.
+Teller 2 is in the safe.
+Teller 0 is getting the manager's permission.
+Customer 86 is going to the bank.
+Customer 86 is getting in line.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 1 is getting the manager's permission.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 0's withdrawal transaction.
+Customer 0 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Customer 86 is selecting a teller.
+Customer 86 goes to Teller 2.
+Customer 86 introduces itself to Teller 2.
+Teller 2 is serving Customer 86.
+Customer 86 asks for a deposit transaction.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the safe.
+Teller 2 is in the safe.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 53's withdrawal transaction.
+Teller 1 is in the safe.
+Customer 53 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 86's deposit transaction.
+Customer 86 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 17's withdrawal transaction.
+Customer 17 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 94 is going to the bank.
+Customer 94 is getting in line.
+Customer 94 is selecting a teller.
+Customer 94 goes to Teller 0.
+Customer 94 introduces itself to Teller 0.
+Teller 0 is serving Customer 94.
+Customer 94 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 94's withdrawal transaction.
+Customer 94 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 39 is going to the bank.
+Customer 39 is getting in line.
+Customer 39 is selecting a teller.
+Customer 39 goes to Teller 0.
+Customer 39 introduces itself to Teller 0.
+Teller 0 is serving Customer 39.
+Customer 39 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 39's deposit transaction.
+Customer 39 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 14 is going to the bank.
+Customer 14 is getting in line.
+Customer 14 is selecting a teller.
+Customer 14 goes to Teller 0.
+Customer 14 introduces itself to Teller 0.
+Teller 0 is serving Customer 14.
+Customer 14 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Customer 34 is going to the bank.
+Customer 34 is getting in line.
+Customer 34 is selecting a teller.
+Customer 34 goes to Teller 1.
+Customer 34 introduces itself to Teller 1.
+Teller 1 is serving Customer 34.
+Customer 34 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 1 is getting the manager's permission.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 14's withdrawal transaction.
+Customer 14 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Customer 78 is going to the bank.
+Customer 78 is getting in line.
+Customer 78 is selecting a teller.
+Customer 78 goes to Teller 0.
+Customer 78 introduces itself to Teller 0.
+Teller 0 is serving Customer 78.
+Customer 78 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 34's withdrawal transaction.
+Customer 34 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 92 is going to the bank.
+Customer 92 is getting in line.
+Customer 92 is selecting a teller.
+Customer 92 goes to Teller 1.
+Customer 92 introduces itself to Teller 1.
+Teller 1 is serving Customer 92.
+Customer 92 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 1 is getting the manager's permission.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 78's deposit transaction.
+Customer 78 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Customer 58 is going to the bank.
+Customer 58 is getting in line.
+Customer 58 is selecting a teller.
+Customer 58 goes to Teller 0.
+Customer 58 introduces itself to Teller 0.
+Teller 0 is serving Customer 58.
+Customer 58 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 92's withdrawal transaction.
+Customer 92 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 58's deposit transaction.
+Customer 58 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 16 is going to the bank.
+Customer 16 is getting in line.
+Customer 16 is selecting a teller.
+Customer 16 goes to Teller 0.
+Customer 16 introduces itself to Teller 0.
+Teller 0 is serving Customer 16.
+Customer 16 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 16's deposit transaction.
+Customer 16 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 64 is going to the bank.
+Customer 64 is getting in line.
+Customer 64 is selecting a teller.
+Customer 64 goes to Teller 0.
+Customer 64 introduces itself to Teller 0.
+Teller 0 is serving Customer 64.
+Customer 64 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 64's deposit transaction.
+Customer 64 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 35 is going to the bank.
+Customer 35 is getting in line.
+Customer 35 is selecting a teller.
+Customer 35 goes to Teller 0.
+Customer 35 introduces itself to Teller 0.
+Teller 0 is serving Customer 35.
+Customer 35 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Customer 87 is going to the bank.
+Customer 87 is getting in line.
+Customer 87 is selecting a teller.
+Customer 87 goes to Teller 1.
+Customer 87 introduces itself to Teller 1.
+Customer 63 is going to the bank.
+Customer 63 is getting in line.
+Customer 63 is selecting a teller.
+Customer 63 goes to Teller 2.
+Customer 63 introduces itself to Teller 2.
+Teller 1 is serving Customer 87.
+Teller 2 is serving Customer 63.
+Customer 63 asks for a withdrawal transaction.
+Customer 87 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 1 is getting the manager's permission.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the manager.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 35's deposit transaction.
+Customer 35 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 2 is getting the manager's permission.
+Teller 2 is got the manager's permission.
+Teller 2 is going to the safe.
+Teller 2 is in the safe.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 87's withdrawal transaction.
+Customer 87 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 63's withdrawal transaction.
+Customer 63 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Customer 54 is going to the bank.
+Customer 54 is getting in line.
+Customer 54 is selecting a teller.
+Customer 54 goes to Teller 0.
+Customer 54 introduces itself to Teller 0.
+Teller 0 is serving Customer 54.
+Customer 54 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Customer 38 is going to the bank.
+Customer 38 is getting in line.
+Customer 38 is selecting a teller.
+Customer 38 goes to Teller 1.
+Customer 38 introduces itself to Teller 1.
+Teller 1 is serving Customer 38.
+Customer 38 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Customer 81 is going to the bank.
+Customer 81 is getting in line.
+Customer 81 is selecting a teller.
+Customer 81 goes to Teller 2.
+Customer 81 introduces itself to Teller 2.
+Teller 2 is serving Customer 81.
+Customer 81 asks for a withdrawal transaction.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the manager.
+Customer 15 is going to the bank.
+Customer 15 is getting in line.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 1 is getting the manager's permission.
+Customer 98 is going to the bank.
+Customer 98 is getting in line.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 54's withdrawal transaction.
+Customer 54 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 15 is selecting a teller.
+Customer 15 goes to Teller 0.
+Customer 15 introduces itself to Teller 0.
+Teller 0 is serving Customer 15.
+Customer 15 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 2 is getting the manager's permission.
+Teller 2 is got the manager's permission.
+Teller 2 is going to the safe.
+Teller 2 is in the safe.
+Teller 0 is getting the manager's permission.
+Customer 56 is going to the bank.
+Customer 56 is getting in line.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 38's withdrawal transaction.
+Customer 38 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 98 is selecting a teller.
+Customer 98 goes to Teller 1.
+Customer 98 introduces itself to Teller 1.
+Teller 1 is serving Customer 98.
+Customer 98 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 1 is getting the manager's permission.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Customer 43 is going to the bank.
+Customer 43 is getting in line.
+Customer 7 is going to the bank.
+Customer 7 is getting in line.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 81's withdrawal transaction.
+Teller 1 is in the safe.
+Customer 81 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Customer 56 is selecting a teller.
+Customer 56 goes to Teller 2.
+Customer 56 introduces itself to Teller 2.
+Teller 2 is serving Customer 56.
+Customer 56 asks for a deposit transaction.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 15's withdrawal transaction.
+Customer 15 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 43 is selecting a teller.
+Customer 43 goes to Teller 0.
+Customer 43 introduces itself to Teller 0.
+Teller 0 is serving Customer 43.
+Customer 43 asks for a deposit transaction.
+Teller 2 is in the safe.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 98's withdrawal transaction.
+Teller 0 is in the safe.
+Customer 98 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 7 is selecting a teller.
+Customer 7 goes to Teller 1.
+Customer 7 introduces itself to Teller 1.
+Teller 1 is serving Customer 7.
+Customer 7 asks for a deposit transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 43's deposit transaction.
+Customer 43 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is in the safe.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 56's deposit transaction.
+Customer 56 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Customer 28 is going to the bank.
+Customer 28 is getting in line.
+Customer 28 is selecting a teller.
+Customer 28 goes to Teller 0.
+Customer 28 introduces itself to Teller 0.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 7's deposit transaction.
+Customer 7 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Teller 0 is serving Customer 28.
+Customer 28 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 28's deposit transaction.
+Customer 28 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 36 is going to the bank.
+Customer 36 is getting in line.
+Customer 36 is selecting a teller.
+Customer 36 goes to Teller 0.
+Customer 36 introduces itself to Teller 0.
+Teller 0 is serving Customer 36.
+Customer 36 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 36's deposit transaction.
+Customer 36 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 90 is going to the bank.
+Customer 90 is getting in line.
+Customer 90 is selecting a teller.
+Customer 90 goes to Teller 0.
+Customer 90 introduces itself to Teller 0.
+Teller 0 is serving Customer 90.
+Customer 90 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 90's deposit transaction.
+Customer 90 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 48 is going to the bank.
+Customer 48 is getting in line.
+Customer 48 is selecting a teller.
+Customer 48 goes to Teller 0.
+Customer 48 introduces itself to Teller 0.
+Teller 0 is serving Customer 48.
+Customer 48 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 48's deposit transaction.
+Customer 48 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 57 is going to the bank.
+Customer 57 is getting in line.
+Customer 57 is selecting a teller.
+Customer 57 goes to Teller 0.
+Customer 57 introduces itself to Teller 0.
+Teller 0 is serving Customer 57.
+Customer 57 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Customer 42 is going to the bank.
+Customer 42 is getting in line.
+Customer 42 is selecting a teller.
+Customer 42 goes to Teller 1.
+Customer 42 introduces itself to Teller 1.
+Teller 1 is serving Customer 42.
+Customer 42 asks for a deposit transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 42's deposit transaction.
+Customer 42 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 57's deposit transaction.
+Customer 57 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 46 is going to the bank.
+Customer 46 is getting in line.
+Customer 46 is selecting a teller.
+Customer 46 goes to Teller 0.
+Customer 46 introduces itself to Teller 0.
+Teller 0 is serving Customer 46.
+Customer 46 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 46's deposit transaction.
+Customer 46 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 97 is going to the bank.
+Customer 97 is getting in line.
+Customer 97 is selecting a teller.
+Customer 97 goes to Teller 0.
+Customer 97 introduces itself to Teller 0.
+Teller 0 is serving Customer 97.
+Customer 97 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 97's withdrawal transaction.
+Customer 97 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 72 is going to the bank.
+Customer 72 is getting in line.
+Customer 72 is selecting a teller.
+Customer 72 goes to Teller 0.
+Customer 72 introduces itself to Teller 0.
+Teller 0 is serving Customer 72.
+Customer 72 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 72's deposit transaction.
+Customer 72 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 13 is going to the bank.
+Customer 13 is getting in line.
+Customer 13 is selecting a teller.
+Customer 13 goes to Teller 0.
+Customer 13 introduces itself to Teller 0.
+Teller 0 is serving Customer 13.
+Customer 13 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 13's withdrawal transaction.
+Customer 13 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 30 is going to the bank.
+Customer 30 is getting in line.
+Customer 30 is selecting a teller.
+Customer 30 goes to Teller 0.
+Customer 30 introduces itself to Teller 0.
+Teller 0 is serving Customer 30.
+Customer 30 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Customer 1 is going to the bank.
+Customer 1 is getting in line.
+Customer 1 is selecting a teller.
+Customer 1 goes to Teller 1.
+Customer 1 introduces itself to Teller 1.
+Teller 1 is serving Customer 1.
+Customer 1 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 1 is getting the manager's permission.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 30's deposit transaction.
+Customer 30 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Customer 62 is going to the bank.
+Customer 62 is getting in line.
+Customer 62 is selecting a teller.
+Customer 62 goes to Teller 0.
+Customer 62 introduces itself to Teller 0.
+Teller 0 is serving Customer 62.
+Customer 62 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Customer 41 is going to the bank.
+Customer 41 is getting in line.
+Customer 41 is selecting a teller.
+Customer 41 goes to Teller 2.
+Customer 41 introduces itself to Teller 2.
+Teller 2 is serving Customer 41.
+Customer 41 asks for a deposit transaction.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the safe.
+Teller 2 is in the safe.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 1's withdrawal transaction.
+Teller 0 is in the safe.
+Customer 1 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 23 is going to the bank.
+Customer 23 is getting in line.
+Customer 23 is selecting a teller.
+Customer 23 goes to Teller 1.
+Customer 23 introduces itself to Teller 1.
+Teller 1 is serving Customer 23.
+Customer 23 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 1 is getting the manager's permission.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 41's deposit transaction.
+Customer 41 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Customer 50 is going to the bank.
+Customer 50 is getting in line.
+Customer 50 is selecting a teller.
+Customer 50 goes to Teller 2.
+Customer 50 introduces itself to Teller 2.
+Teller 2 is serving Customer 50.
+Customer 50 asks for a deposit transaction.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 62's withdrawal transaction.
+Teller 2 is in the safe.
+Customer 62 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 23's withdrawal transaction.
+Customer 23 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 50's deposit transaction.
+Customer 50 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Customer 2 is going to the bank.
+Customer 2 is getting in line.
+Customer 2 is selecting a teller.
+Customer 2 goes to Teller 0.
+Customer 2 introduces itself to Teller 0.
+Teller 0 is serving Customer 2.
+Customer 2 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Customer 77 is going to the bank.
+Customer 77 is getting in line.
+Customer 77 is selecting a teller.
+Customer 77 goes to Teller 1.
+Customer 77 introduces itself to Teller 1.
+Teller 1 is serving Customer 77.
+Customer 77 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 1 is getting the manager's permission.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Customer 27 is going to the bank.
+Customer 27 is getting in line.
+Customer 27 is selecting a teller.
+Customer 27 goes to Teller 2.
+Customer 27 introduces itself to Teller 2.
+Teller 2 is serving Customer 27.
+Customer 27 asks for a deposit transaction.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 2's withdrawal transaction.
+Customer 2 thanks Teller 0 and leaves.
+Teller 2 is in the safe.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 77's withdrawal transaction.
+Customer 77 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 27's deposit transaction.
+Customer 27 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Customer 31 is going to the bank.
+Customer 31 is getting in line.
+Customer 31 is selecting a teller.
+Customer 31 goes to Teller 0.
+Customer 31 introduces itself to Teller 0.
+Teller 0 is serving Customer 31.
+Customer 31 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 31's withdrawal transaction.
+Customer 31 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 96 is going to the bank.
+Customer 96 is getting in line.
+Customer 96 is selecting a teller.
+Customer 96 goes to Teller 0.
+Customer 96 introduces itself to Teller 0.
+Teller 0 is serving Customer 96.
+Customer 96 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Customer 37 is going to the bank.
+Customer 37 is getting in line.
+Customer 37 is selecting a teller.
+Customer 37 goes to Teller 1.
+Customer 37 introduces itself to Teller 1.
+Teller 1 is serving Customer 37.
+Customer 37 asks for a deposit transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Customer 61 is going to the bank.
+Customer 61 is getting in line.
+Customer 61 is selecting a teller.
+Customer 61 goes to Teller 2.
+Customer 61 introduces itself to Teller 2.
+Teller 2 is serving Customer 61.
+Customer 61 asks for a deposit transaction.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 96's deposit transaction.
+Customer 96 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 2 is in the safe.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 37's deposit transaction.
+Customer 37 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 61's deposit transaction.
+Customer 61 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Customer 21 is going to the bank.
+Customer 21 is getting in line.
+Customer 21 is selecting a teller.
+Customer 21 goes to Teller 0.
+Customer 21 introduces itself to Teller 0.
+Teller 0 is serving Customer 21.
+Customer 21 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 21's deposit transaction.
+Customer 21 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 68 is going to the bank.
+Customer 68 is getting in line.
+Customer 68 is selecting a teller.
+Customer 68 goes to Teller 0.
+Customer 68 introduces itself to Teller 0.
+Teller 0 is serving Customer 68.
+Customer 68 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 68's deposit transaction.
+Customer 68 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 18 is going to the bank.
+Customer 18 is getting in line.
+Customer 18 is selecting a teller.
+Customer 18 goes to Teller 0.
+Customer 18 introduces itself to Teller 0.
+Teller 0 is serving Customer 18.
+Customer 18 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Customer 11 is going to the bank.
+Customer 11 is getting in line.
+Customer 11 is selecting a teller.
+Customer 11 goes to Teller 1.
+Customer 11 introduces itself to Teller 1.
+Teller 1 is serving Customer 11.
+Customer 11 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Customer 75 is going to the bank.
+Customer 75 is getting in line.
+Customer 75 is selecting a teller.
+Customer 75 goes to Teller 2.
+Customer 75 introduces itself to Teller 2.
+Teller 2 is serving Customer 75.
+Customer 75 asks for a withdrawal transaction.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the manager.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 1 is getting the manager's permission.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 2 is getting the manager's permission.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 11's withdrawal transaction.
+Customer 11 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 18's withdrawal transaction.
+Customer 18 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 2 is got the manager's permission.
+Teller 2 is going to the safe.
+Teller 2 is in the safe.
+Customer 83 is going to the bank.
+Customer 83 is getting in line.
+Customer 83 is selecting a teller.
+Customer 83 goes to Teller 0.
+Customer 83 introduces itself to Teller 0.
+Teller 0 is serving Customer 83.
+Customer 83 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 75's withdrawal transaction.
+Customer 75 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 83's withdrawal transaction.
+Customer 83 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 55 is going to the bank.
+Customer 55 is getting in line.
+Customer 55 is selecting a teller.
+Customer 55 goes to Teller 0.
+Customer 55 introduces itself to Teller 0.
+Teller 0 is serving Customer 55.
+Customer 55 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 55's deposit transaction.
+Customer 55 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 33 is going to the bank.
+Customer 33 is getting in line.
+Customer 33 is selecting a teller.
+Customer 33 goes to Teller 0.
+Customer 33 introduces itself to Teller 0.
+Teller 0 is serving Customer 33.
+Customer 33 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 33's deposit transaction.
+Customer 33 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 74 is going to the bank.
+Customer 74 is getting in line.
+Customer 74 is selecting a teller.
+Customer 74 goes to Teller 0.
+Customer 74 introduces itself to Teller 0.
+Teller 0 is serving Customer 74.
+Customer 74 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Customer 49 is going to the bank.
+Customer 49 is getting in line.
+Customer 49 is selecting a teller.
+Customer 49 goes to Teller 1.
+Customer 49 introduces itself to Teller 1.
+Teller 1 is serving Customer 49.
+Customer 49 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 1 is getting the manager's permission.
+Customer 19 is going to the bank.
+Customer 19 is getting in line.
+Customer 19 is selecting a teller.
+Customer 19 goes to Teller 2.
+Customer 19 introduces itself to Teller 2.
+Teller 2 is serving Customer 19.
+Customer 19 asks for a withdrawal transaction.
+Teller 2 is handling the withdrawal transaction.
+Teller 2 is going to the manager.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 2 is getting the manager's permission.
+Teller 2 is got the manager's permission.
+Teller 2 is going to the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 74's withdrawal transaction.
+Teller 2 is in the safe.
+Customer 74 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 49's withdrawal transaction.
+Customer 49 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Teller 2 is leaving the safe.
+Teller 2 finishes Customer 19's withdrawal transaction.
+Customer 19 thanks Teller 2 and leaves.
+Teller 2 is ready to serve.
+Teller 2 is waiting for a customer.
+Customer 73 is going to the bank.
+Customer 73 is getting in line.
+Customer 73 is selecting a teller.
+Customer 73 goes to Teller 0.
+Customer 73 introduces itself to Teller 0.
+Teller 0 is serving Customer 73.
+Customer 73 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 73's deposit transaction.
+Customer 73 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 99 is going to the bank.
+Customer 99 is getting in line.
+Customer 99 is selecting a teller.
+Customer 99 goes to Teller 0.
+Customer 99 introduces itself to Teller 0.
+Teller 0 is serving Customer 99.
+Customer 99 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Customer 82 is going to the bank.
+Customer 82 is getting in line.
+Customer 82 is selecting a teller.
+Customer 82 goes to Teller 1.
+Customer 82 introduces itself to Teller 1.
+Teller 1 is serving Customer 82.
+Customer 82 asks for a deposit transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 99's withdrawal transaction.
+Customer 99 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 82's deposit transaction.
+Customer 82 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 88 is going to the bank.
+Customer 88 is getting in line.
+Customer 88 is selecting a teller.
+Customer 88 goes to Teller 0.
+Customer 88 introduces itself to Teller 0.
+Teller 0 is serving Customer 88.
+Customer 88 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 88's withdrawal transaction.
+Customer 88 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 25 is going to the bank.
+Customer 25 is getting in line.
+Customer 25 is selecting a teller.
+Customer 25 goes to Teller 0.
+Customer 25 introduces itself to Teller 0.
+Teller 0 is serving Customer 25.
+Customer 25 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Customer 5 is going to the bank.
+Customer 5 is getting in line.
+Customer 5 is selecting a teller.
+Customer 5 goes to Teller 1.
+Customer 5 introduces itself to Teller 1.
+Teller 1 is serving Customer 5.
+Customer 5 asks for a deposit transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 25's withdrawal transaction.
+Customer 25 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 5's deposit transaction.
+Customer 5 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 47 is going to the bank.
+Customer 47 is getting in line.
+Customer 47 is selecting a teller.
+Customer 47 goes to Teller 0.
+Customer 47 introduces itself to Teller 0.
+Teller 0 is serving Customer 47.
+Customer 47 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Customer 52 is going to the bank.
+Customer 52 is getting in line.
+Customer 52 is selecting a teller.
+Customer 52 goes to Teller 1.
+Customer 52 introduces itself to Teller 1.
+Teller 1 is serving Customer 52.
+Customer 52 asks for a deposit transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 47's withdrawal transaction.
+Customer 47 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 52's deposit transaction.
+Customer 52 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 51 is going to the bank.
+Customer 51 is getting in line.
+Customer 51 is selecting a teller.
+Customer 51 goes to Teller 0.
+Customer 51 introduces itself to Teller 0.
+Teller 0 is serving Customer 51.
+Customer 51 asks for a withdrawal transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the manager.
+Teller 0 is getting the manager's permission.
+Teller 0 is got the manager's permission.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 51's withdrawal transaction.
+Customer 51 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Customer 76 is going to the bank.
+Customer 76 is getting in line.
+Customer 76 is selecting a teller.
+Customer 76 goes to Teller 0.
+Customer 76 introduces itself to Teller 0.
+Teller 0 is serving Customer 76.
+Customer 76 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Customer 8 is going to the bank.
+Customer 8 is getting in line.
+Customer 8 is selecting a teller.
+Customer 8 goes to Teller 1.
+Customer 8 introduces itself to Teller 1.
+Teller 1 is serving Customer 8.
+Customer 8 asks for a withdrawal transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the manager.
+Teller 1 is getting the manager's permission.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 76's deposit transaction.
+Customer 76 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is got the manager's permission.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 8's withdrawal transaction.
+Customer 8 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 22 is going to the bank.
+Customer 22 is getting in line.
+Customer 22 is selecting a teller.
+Customer 22 goes to Teller 0.
+Customer 22 introduces itself to Teller 0.
+Teller 0 is serving Customer 22.
+Customer 22 asks for a deposit transaction.
+Teller 0 is handling the withdrawal transaction.
+Teller 0 is going to the safe.
+Teller 0 is in the safe.
+Customer 10 is going to the bank.
+Customer 10 is getting in line.
+Customer 10 is selecting a teller.
+Customer 10 goes to Teller 1.
+Customer 10 introduces itself to Teller 1.
+Teller 1 is serving Customer 10.
+Customer 10 asks for a deposit transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 10's deposit transaction.
+Customer 10 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Customer 85 is going to the bank.
+Customer 85 is getting in line.
+Customer 85 is selecting a teller.
+Customer 85 goes to Teller 1.
+Customer 85 introduces itself to Teller 1.
+Teller 1 is serving Customer 85.
+Customer 85 asks for a deposit transaction.
+Teller 1 is handling the withdrawal transaction.
+Teller 1 is going to the safe.
+Teller 1 is in the safe.
+Teller 0 is leaving the safe.
+Teller 0 finishes Customer 22's deposit transaction.
+Customer 22 thanks Teller 0 and leaves.
+Teller 0 is ready to serve.
+Teller 0 is waiting for a customer.
+Teller 1 is leaving the safe.
+Teller 1 finishes Customer 85's deposit transaction.
+Customer 85 thanks Teller 1 and leaves.
+Teller 1 is ready to serve.
+Teller 1 is waiting for a customer.
+Teller 1 is leaving for the day.
+Teller 0 is leaving for the day.
+Teller 2 is leaving for the day.
+The bank closes for the day.
